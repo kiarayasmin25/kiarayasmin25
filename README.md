@@ -1,6 +1,8 @@
-## Hi there 👋
-
-# Kiara
+# 👋 Olá, eu sou a Kiara  
+## Sobre mim
+- 🎓 Tenho 17 anos e estudo no **Colégio Marista**  
+- 🐾 Amo **animais**  
+- 💻 Sempre em busca de aprender coisas novas
 
 <!--
 **kiarayasmin25/kiarayasmin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
