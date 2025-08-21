@@ -3,18 +3,16 @@
 - 🎓 Tenho 17 anos e estudo no **Colégio Marista**  
 - 🐾 Amo **animais**  
 - 💻 Sempre em busca de aprender coisas novas
+- 💍 Namoro com um pretinho lindo
+- 🏠 Sou do bairro Aquiles
 
-<!--
-**kiarayasmin25/kiarayasmin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interesses
+- Desenvolvimento e Tecnologia
+- Projetos criativos  
+- Compartilhar conhecimento
+- Se comunicar com as pessoas
+- queria ter todos os animais possivel
 
-Here are some ideas to get you started:
+![Texto Alternativo](https://petestimacao.com.br/storage/2023/02/cachorro-pequeno-peludo-havanese.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
