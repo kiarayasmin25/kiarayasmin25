@@ -13,6 +13,7 @@
 - Se comunicar com as pessoas
 - queria ter todos os animais possivel
 
-![Texto Alternativo](https://petestimacao.com.br/storage/2023/02/cachorro-pequeno-peludo-havanese.jpg)
+## olha esse que lindo😍
+<img src="https://petestimacao.com.br/storage/2023/02/cachorro-pequeno-peludo-havanese.jpg" width="200" height="300">
 
 
